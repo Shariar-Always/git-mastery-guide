@@ -95,8 +95,8 @@ Dieses Dokument ist ein <b>umfassendes Git & GitHub Referenzhandbuch</b> zum Ver
 
 | Befehl | Erklärung auf Deutsch |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | Remote-Repository hinzufügen |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | URL mit PAT-Token festlegen |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | Remote-Repository hinzufügen |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | URL mit PAT-Token festlegen |
 
 ---
 

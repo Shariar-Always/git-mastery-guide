@@ -95,8 +95,8 @@
 
 | الأمر | الشرح بالعربية |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | إضافة مستودع GitHub كمستودع بعيد |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | الربط باستخدام رمز PAT |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | إضافة مستودع GitHub كمستودع بعيد |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | الربط باستخدام رمز PAT |
 
 ---
 

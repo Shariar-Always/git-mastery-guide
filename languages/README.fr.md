@@ -95,8 +95,8 @@ Ce document est un <b>guide de référence complet sur les commandes Git et GitH
 
 | Commande | Explication en Français |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | Ajouter le dépôt distant GitHub |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | Définir l'URL avec le jeton PAT |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | Ajouter le dépôt distant GitHub |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | Définir l'URL avec le jeton PAT |
 
 ---
 

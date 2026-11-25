@@ -95,8 +95,8 @@
 
 | 命令 | 说明 (中文) |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | 添加 GitHub 远程仓库 |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | 使用 PAT 令牌连接 |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | 添加 GitHub 远程仓库 |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | 使用 PAT 令牌连接 |
 
 ---
 

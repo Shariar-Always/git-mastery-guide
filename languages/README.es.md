@@ -95,8 +95,8 @@ Este documento es una <b>guía de referencia completa de comandos de Git y GitHu
 
 | Comando | Explicación en Español |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | Añadir repositorio de GitHub como remoto |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | Conectar usando PAT para autenticación |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | Añadir repositorio de GitHub como remoto |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | Conectar usando PAT para autenticación |
 
 ---
 

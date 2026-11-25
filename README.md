@@ -95,8 +95,8 @@ This document is an <b>all-in-one comprehensive Git & GitHub command reference g
 
 | Command | Explanation |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | Add GitHub repo as remote |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | Connect using PAT for authentication |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | Add GitHub repo as remote |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | Connect using PAT for authentication |
 
 ---
 

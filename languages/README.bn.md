@@ -95,8 +95,8 @@
 
 | কমান্ড | বাংলা ব্যাখ্যা |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | গিটহাব রিপোজিটরিকে লোকাল প্রজেক্টের সাথে লিংক করা |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | PAT টোকেন সহ অটো অথেন্টিকেশন ইউআরএল সেট করা |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | গিটহাব রিপোজিটরিকে লোকাল প্রজেক্টের সাথে লিংক করা |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | PAT টোকেন সহ অটো অথেন্টিকেশন ইউআরএল সেট করা |
 
 ---
 

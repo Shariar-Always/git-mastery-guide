@@ -95,8 +95,8 @@
 
 | कमांड | हिन्दी विवरण |
 |---------|-------------|
-| `git remote add origin https://github.com/Shariar-Ahamed/<repo>` | GitHub रिपॉजिटरी को रिमोट के रूप में जोड़ें |
-| `git remote set-url origin https://<token>@github.com/Shariar-Ahamed/<repo>` | PAT का उपयोग करके कनेक्ट करें |
+| `git remote add origin https://github.com/Shariar-Always/<repo>` | GitHub रिपॉजिटरी को रिमोट के रूप में जोड़ें |
+| `git remote set-url origin https://<token>@github.com/Shariar-Always/<repo>` | PAT का उपयोग करके कनेक्ट करें |
 
 ---
 
